@@ -1,6 +1,6 @@
 import Layout from "@/components/Layout";
 import { Star, Users, Bath, BedDouble, Home, Mail, Phone, MapPin, Calendar, Clock, Info, Castle, Wine, Mountain, Footprints, Waves, Church, ShoppingBag, Train, Flame, Wifi, Car, Tv, WashingMachine, Baby, UtensilsCrossed } from "lucide-react";
-import houseFront from "@/assets/house-front.png";
+import houseFront from "@/assets/house-front.webp";
 import poolArea from "@/assets/pool-area.jpeg";
 import terrace from "@/assets/terrace.jpeg";
 import interior from "@/assets/interior.jpeg";
